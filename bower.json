@@ -1,0 +1,21 @@
+{
+  "name": "polymer-github-banner",
+  "version": "0.0.0",
+  "authors": [
+    "reggi <thomas@reggi.com>"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.3.3"
+  }
+}
