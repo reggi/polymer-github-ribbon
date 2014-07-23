@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer-github-banner": "reggi/polymer-github-ribbon"
+    "polymer-github-ribbon": "reggi/polymer-github-ribbon"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "polymer-github-banner",
+  "name": "polymer-github-ribbon",
   "authors": [
     "reggi <thomas@reggi.com>"
   ],
@@ -18,11 +18,11 @@
     "polymer": "~0.3.3"
   },
   "homepage": "https://github.com/reggi/polymer-github-ribbon",
-  "_release": "6287f24feb",
+  "_release": "2bd3824955",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "6287f24feb926320cbe6f209f2e1adb6c88767c4"
+    "commit": "2bd382495596737aa928a2917fa7c61719e14c16"
   },
   "_source": "git://github.com/reggi/polymer-github-ribbon.git",
   "_target": "*",
